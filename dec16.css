@@ -1,0 +1,18 @@
+body{background-color: burlywood;}
+
+h1{text-align: center;
+ background-color: aquamarine;}
+
+.ISSSbox{
+
+    width: 60%;
+    margin: auto;
+    background-color: bisque;
+
+}
+
+.lat{ color: red;}
+
+.lon{color: rgb(36, 205, 56);}
+
+.alt{color: rgb(38, 90, 234);}
